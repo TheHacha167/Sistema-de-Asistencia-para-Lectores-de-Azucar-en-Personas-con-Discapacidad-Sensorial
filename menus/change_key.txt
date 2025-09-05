@@ -1,0 +1,1 @@
+Solicitud de cambio de clave recibida. Envía por SMS la nueva clave.
