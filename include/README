@@ -1,0 +1,30 @@
+Este directorio contiene los archivos de cabecera (header files) del proyecto. A continuación se describe el propósito de cada archivo y cómo configurar `secrets.h`.
+
+## Archivos en este directorio
+
+- **audio.h**  
+  Declaraciones y definiciones relacionadas con el manejo de audio en el sistema.
+
+- **dtmf.h**  
+  Funciones y macros para el procesamiento de tonos DTMF (Dual-tone multi-frequency).
+
+- **modem.h**  
+  Interfaces y definiciones para la comunicación con el módem.
+
+- **secrets.h**  
+  Archivo destinado a almacenar información sensible como claves, tokens o contraseñas necesarias para el funcionamiento del sistema. Este archivo **no debe ser subido al repositorio** para proteger la información confidencial.
+
+- **sms.h**  
+  Declaraciones para el envío y recepción de mensajes SMS.
+
+## Configuración de `secrets.h`
+
+Para configurar `secrets.h`, crea el archivo si no existe y define en él las constantes o variables necesarias para tu entorno. Por ejemplo:
+
+```c
+// secrets.h (ejemplo)
+#pragma once
+#define NUM1 "1234567890"
+#define NUM2 "0987654321"
+
+```
