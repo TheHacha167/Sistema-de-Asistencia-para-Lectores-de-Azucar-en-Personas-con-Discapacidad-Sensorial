@@ -1,4 +1,4 @@
-# Lista de materiales (BOM) — Glauco Alert
+# Lista de materiales (BOM) — Gluco Alert
 
 Este documento recoge el *Bill of Materials* del proyecto **Glauco Alert** (TFG). Incluye los componentes principales, su función en el sistema y el motivo de elección, así como materiales recomendados adicionales para el montaje seguro y ordenado.
 
