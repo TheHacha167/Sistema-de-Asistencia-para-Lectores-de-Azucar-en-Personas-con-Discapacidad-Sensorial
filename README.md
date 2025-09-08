@@ -1,6 +1,7 @@
 # TFG — Sistema de Asistencia para Lectores de Azúcar en Personas con Discapacidad Sensorial
 
 Proyecto desarrollado como parte de mi **Trabajo Fin de Grado (TFG)**.  
+**El proyecto ha sido bautizado como _Gluco Alert_.**  
 El sistema detecta vibraciones anómalas en un lector de glucosa y notifica al cuidador mediante aviso local (luz y vibración) y remoto (llamadas/SMS).
 
 ---
