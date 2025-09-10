@@ -1,0 +1,15 @@
+Bienvenido al sistema de control remoto por tonos D.T.M.F.
+
+Para seleccionar una opción, marque el dígito correspondiente.
+
+Para listar todos los comandos disponibles, marque uno.
+Para cambiar la clave de acceso, marque dos.
+Para consultar el estado de alertas, marque tres.
+Para probar la función de llamadas, marque cuatro.
+Para enviar un SMS de prueba, marque cinco.
+Para cancelar cualquier alerta activa, marque seis.
+Para reiniciar el dispositivo de forma remota, marque siete.
+Para realizar una prueba completa del sistema, marque ocho.
+Para conocer el tiempo de actividad del sistema, marque nueve.
+
+Si desea repetir este menú, vuelva a marcar asterisco. Gracias por su llamada.

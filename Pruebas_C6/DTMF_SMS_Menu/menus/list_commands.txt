@@ -1,0 +1,1 @@
+Listado de comandos enviados por SMS al número de llamada.
