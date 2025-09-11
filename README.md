@@ -1,4 +1,4 @@
-# TFG — Sistema de Asistencia para Lectores de Azúcar en Personas con Discapacidad Sensorial
+# TFG — Sistema de Asistencia para Lectores de Glucosa en Personas con Discapacidad Sensorial
 
 Proyecto desarrollado como parte de mi **Trabajo Fin de Grado (TFG)**.  
 **El proyecto ha sido bautizado como _Gluco Alert_.**  
